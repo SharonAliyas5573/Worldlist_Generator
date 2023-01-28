@@ -1,8 +1,8 @@
-#  Custom Worldlist_Generator
+#  Custom Worldlist Generator
 
 Custom Wordlist Generator is a tool that allows users to generate their own wordlists for use in password cracking or other purposes. With this tool, users can specify various parameters to control the content of the generated wordlist, such as the length of the words, the characters to include, and so on.
 
-## Features
+## Features 
 
 - Generate wordlists with custom parameters, such as word length and character set.
 - Save generated wordlists to a file for later use.
